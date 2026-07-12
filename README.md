@@ -12,7 +12,7 @@ When I'm not knee-deep in SQL queries or databases, I'm exploring new techniques
 ### 🌱 I’m Currently Learning
 
 - Data Analysis Bootcamp: Genesys Learnable programme
-- Introduction to Generative AI for Data Analysis: A Course
+- Introduction to Generative AI for Data Analysis: A Course.
 
 ### 🛠  Technical Stack
 
