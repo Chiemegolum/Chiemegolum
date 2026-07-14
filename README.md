@@ -1,8 +1,8 @@
-# 📌 About Me 
+## 💯 ABOUT
 
-I'm a data analyst looking for my entry-level role. I love turning raw data into clear, actionable insights. I have worked across datasets from different domains. Basically anywhere there's messy data that needs organizing and a story that needs telling.
-I care about building dashboards that actually get used (not just pretty ones that sit in folders), eager to learn how automation can free up time for deeper analysis, and creating that "aha!" moment when someone finally sees what their data has been trying to tell them.
-When I'm not knee-deep in SQL queries or databases, I'm exploring new techniques in the analytics space.
+I'm a data analyst looking for an entry-level role. I'm passionate about solving real-world problems through data exploration, data visualizaion, and storytelling. I have worked across datasets from different domains, basically anywhere there's messy data that needs organizing and a story that needs telling. I care about building dashboards that actually get used, and creating that "aha!" moment when someone finally sees what their data has been trying to tell them.
+
+📃 [Here is my CV in PDF format] (....) to learn more about my education, certifications, and experience.
 
 ### 🔭 I’m Currently Working On
  
