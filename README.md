@@ -1,4 +1,4 @@
-## 💯 ABOUT
+## 💯 ABOUT ME
 
 I'm a data analyst looking for an entry-level role. I'm passionate about solving real-world problems through data exploration, data visualizaion, and turning them into actionable insights. I have worked across datasets from different domains, basically anywhere there's messy data that needs organizing and a story that needs telling. I care about building dashboards that actually get used, and creating that "aha!" moment when someone finally sees what their data has been trying to tell them.
 
